@@ -1,7 +1,7 @@
 import Image from 'next/image';
 
 import Marquee from 'react-fast-marquee';
-
+// Brand
 const Brand = () => {
   return (
     <div className=" py-7 -mt-32 mb-24 bg-white z-10 ">
