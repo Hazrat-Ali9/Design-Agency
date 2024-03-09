@@ -2,7 +2,7 @@ import Image from 'next/image';
 import { featureData } from '../../public/FeatureData';import FeatureCard from './FeatureCard';
 import SectionTitle from './SectionTitle';
 
-
+// Feature 
 const Feature = () => {
   return (
     <div className="">
