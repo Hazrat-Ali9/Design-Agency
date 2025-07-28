@@ -1,7 +1,7 @@
 import { workData} from '../../public/workData'
 import SectionTitle from './SectionTitle';
 import SingleWork from './SingleWork';
-
+// Worklist
 const WorkList = () => {
   return (
     <div className=' px-7'>
